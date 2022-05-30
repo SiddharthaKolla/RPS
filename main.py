@@ -1,6 +1,6 @@
 import random
 
-print("Winning Rules of the Rock paper scissor game as follows: \n"
+print("Rules of Rock paper & scissor game: \n"
       + "Rock vs paper->paper wins \n"
       + "Rock vs scissor->Rock wins \n"
       + "paper vs scissor->scissor wins \n")
